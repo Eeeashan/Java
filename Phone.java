@@ -5,5 +5,11 @@ public class Phone{
 	int totalPhone = (x+y);
 
         System.out.println ("Total phones" + totalPhone );
+        
+        String firstName = "Raiat";
+        String lastName = "Hasan";
+        String fullName = firstName + lastName;
+        
+        System.out.println(fullName);
     }
 }
