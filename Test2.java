@@ -1,0 +1,15 @@
+public class Test2{
+
+
+public static void main(String[] args){
+	Test2 myTest = new Test2();
+	myTest.call();
+	
+}
+public void call(){
+
+System.out.println("TEST TEST");
+}
+
+
+}

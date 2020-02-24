@@ -1,0 +1,10 @@
+public class IPhoneX {
+	public void static main (String [] args){
+
+		IPhoneX myIPhoneX =  new IPhoneX();
+
+
+	} 
+
+
+}
